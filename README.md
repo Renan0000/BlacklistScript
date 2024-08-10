@@ -19,8 +19,8 @@ This Python script is designed to check URLs and domains against VirusTotal's bl
 1. **Clone or download the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/virustotal-url-domain-scanner.git
-   cd virustotal-url-domain-scanner
+   git clone https://github.com/Renan0000/BlacklistScript.git
+   cd virustotal-scanner
 
 2. **Install required Python packages:**
 
